@@ -90,6 +90,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: purple;
+    text-decoration: underline overline;
+  }
+
 #header-accent {
     margin: 20px auto;
 }
